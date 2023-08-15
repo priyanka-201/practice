@@ -11,11 +11,11 @@ public class Practice1 {
         System.out.println(v);
         int age=14;
         boolean isMajor;
-if (age>18){
-    isMajor=true;
-}else {
-    isMajor=false;
-}
+        if (age > 18) {
+            isMajor=false;
+        } else {
+            isMajor=true;
+        }
 
         System.out.println("Major :"+isMajor);
     }

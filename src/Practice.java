@@ -11,7 +11,7 @@ public class Practice {
     //to multiply 2 floating point number
         Float a=23.34f;
         Float b=45.67f;
-        double c=a*b;
+        double c = a * b;
         System.out.println("Multiply of 2 number " +c);
         // check even or odd
 
